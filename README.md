@@ -1,4 +1,4 @@
-his PowerShell Module queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
+This PowerShell Module queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
 
 Intune Configuration is backed up as (json) files in a given directory.
 
